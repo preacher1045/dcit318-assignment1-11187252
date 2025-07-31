@@ -1,6 +1,6 @@
 ﻿namespace TicketPriceCalculator
 {
-    internal class Program
+    internal class TicketPriceCalculator
     {
         static void Main(string[] args)
         {

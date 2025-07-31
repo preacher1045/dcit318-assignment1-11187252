@@ -1,6 +1,6 @@
 ﻿namespace TraingleTypeIdentifier
 {
-    internal class Program
+    internal class TriangleTypeIdentifier
     {
         static void Main(string[] args)
         {

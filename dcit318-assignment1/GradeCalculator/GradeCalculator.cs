@@ -1,6 +1,6 @@
 ﻿namespace GradeCalculator
 {
-    internal class Program
+    internal class GradeCalculator
     {
         static void Main(string[] args)
         {
